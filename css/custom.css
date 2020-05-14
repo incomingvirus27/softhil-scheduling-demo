@@ -1,0 +1,38 @@
+
+.cont{
+	padding-top: 50px;
+	margin: auto;	
+	background-color: grey;
+	width: 700px;
+}
+label{
+	color: white;
+}
+h4{
+	color: white;
+	font-size: 18px;
+}
+/* a{
+    text-decoration: none;
+    color: #262626;    
+} */
+ul{
+    list-style: none;
+}
+.main-nav ul{
+    display: flex;
+}
+.main-nav ul li{
+    padding: 0 15px;
+}
+a{
+	color: green;
+}
+
+a:hover{
+	color: goldenrod;
+	text-decoration: none;
+}
+.form-group{
+	padding: 0 69px;
+}
